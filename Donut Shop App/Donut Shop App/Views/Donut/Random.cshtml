@@ -1,0 +1,22 @@
+﻿@model Donut_Shop_App.Models.DonutOrder
+
+@{
+    ViewBag.Title = "Random Donut";
+}
+
+<h2>@Model.donut.Name</h2>
+<h2>Calories: @Model.donut.Calories</h2>
+<h2>Description: @Model.donut.Description</h2>
+<img src="@Model.donut.Image" alt="Donut Image"></img>
+<h2>Price: @Model.donut.Price</h2>
+
+ @{
+     int i = 0;
+     foreach (var clients in Model.clients)
+     {
+     <a href="ShowClients/@i">@clients.Name, @clients.Age</a>
+             i++;
+         }
+
+     }
+
