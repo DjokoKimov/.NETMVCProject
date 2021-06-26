@@ -168,6 +168,12 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Donut\Random.cshtml" />
     <Content Include="Views\Donut\ShowClients.cshtml" />
+    <Content Include="Views\Donut\NewDonut.cshtml" />
+    <Content Include="Views\Donut\GetAllDonuts.cshtml" />
+    <Content Include="Views\Donut\EditDonut.cshtml" />
+    <Content Include="Views\Donut\NewClient.cshtml" />
+    <Content Include="Views\Donut\GetAllClients.cshtml" />
+    <Content Include="Views\Donut\EditClient.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
