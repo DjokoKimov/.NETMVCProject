@@ -77,3 +77,10 @@ C:\Users\djoko\Desktop\Dzoce\IT\Proekt\Donut Shop App\Donut Shop App\obj\Debug\D
 C:\Users\djoko\Desktop\Dzoce\IT\Proekt\Donut Shop App\Donut Shop App\obj\Debug\Donut Shop App.csproj.CopyComplete
 C:\Users\djoko\Desktop\Dzoce\IT\Proekt\Donut Shop App\Donut Shop App\obj\Debug\Donut Shop App.dll
 C:\Users\djoko\Desktop\Dzoce\IT\Proekt\Donut Shop App\Donut Shop App\obj\Debug\Donut Shop App.pdb
+C:\Users\djoko\Desktop\Dzoce\IT\Proekt\Donut Shop App\Donut Shop App\bin\EntityFramework.dll
+C:\Users\djoko\Desktop\Dzoce\IT\Proekt\Donut Shop App\Donut Shop App\bin\EntityFramework.SqlServer.dll
+C:\Users\djoko\Desktop\Dzoce\IT\Proekt\Donut Shop App\Donut Shop App\bin\EntityFramework.xml
+C:\Users\djoko\Desktop\Dzoce\IT\Proekt\Donut Shop App\Donut Shop App\bin\EntityFramework.SqlServer.xml
+C:\Users\djoko\Desktop\Dzoce\IT\Proekt\Donut Shop App\Donut Shop App\obj\Debug\Donut_Shop_App.Migrations.initial.resources
+C:\Users\djoko\Desktop\Dzoce\IT\Proekt\Donut Shop App\Donut Shop App\obj\Debug\Donut Shop App.csproj.GenerateResource.cache
+C:\Users\djoko\Desktop\Dzoce\IT\Proekt\Donut Shop App\Donut Shop App\obj\Debug\Donut_Shop_App.Migrations.addedClientDonut.resources

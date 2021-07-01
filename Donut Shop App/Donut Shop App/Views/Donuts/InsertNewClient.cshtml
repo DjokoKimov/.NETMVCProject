@@ -1,0 +1,20 @@
+﻿@model Donut_Shop_App.Models.ClientDonut
+
+@{
+    ViewBag.Title = "InsertNewClient";
+}
+
+<h2>Insert new client for donut: @Model.donuts.Name</h2>
+
+@using (Html.BeginForm("InsertNewClient", "Donuts"))
+{
+    <div class="form-group">
+        @Html.DropDownListFor(m => m.ClientId,
+        new SelectList(Model.clients, "Id", "Name"),
+        new { @class = "form-control" })
+        @Html.HiddenFor(m => m.DonutId)
+    </div>
+    <div class="form-group">
+        <button type="submit">Add client to donut</button>
+    </div>
+}
